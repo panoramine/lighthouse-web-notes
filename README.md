@@ -6,4 +6,4 @@ This repository contains all of the notes taken by [Camila](github.com/panoramin
 
 ### Table of Contents
 * [Week 1](/w1)
-  * [Day 1](/d1-focal)
+  * [Day 1](/d1-focal/What-Should-I-Do-For-Lunch-Tips.md)
