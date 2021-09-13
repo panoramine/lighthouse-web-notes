@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repository contains all of the notes taken by [Camila](github.com/panoramine) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+This repository contains all of the notes taken by [Camila](https://github.com/panoramine) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
 
 ### Table of Contents
 * [Week 1](/w1)
