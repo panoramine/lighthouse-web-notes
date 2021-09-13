@@ -6,4 +6,4 @@ This repository contains all of the notes taken by [Camila](https://github.com/p
 
 ### Table of Contents
 * [Week 1](/w1)
-  * [Day 1](/w1/d1-focal/What-Should-I-Do-For-Lunch-Tips.md)
+  * [Day 1](/w1/d1-focal)
